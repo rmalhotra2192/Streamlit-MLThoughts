@@ -7,7 +7,7 @@ import seaborn as sns
 sns.set(style="whitegrid")
 sns.set_context('talk', font_scale=0.8)
 
-data = pd.read_csv("./data/Water Intake.csv")
+data = pd.read_csv("statistics-101-chap-2-data-water-intake.csv")
 
 bins = st.slider('Bins', 5, 35, 5)
 
