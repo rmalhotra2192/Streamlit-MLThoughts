@@ -10,7 +10,7 @@ sns.set_context('talk', font_scale=0.8)
 lower_limit = st.slider('Water Intake (Y-axis Lower Limit)', 0, 2500, 0)
 upper_limit = st.slider('Water Intake (Y-axis Upper Limit)', 5000, 10000, 5000)
 
-data = pd.read_csv("statistics-101-chap-2-data-food-intake.csv")
+data = pd.read_csv("statistics-101-chap-2-data-fitness.csv")
 data['Date'] = pd.to_datetime(data['Date'], format='%d-%m-%Y')
 
 data.sort_values('Date', inplace=True)
