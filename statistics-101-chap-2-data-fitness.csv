@@ -1,5 +1,5 @@
 Date,Water Intake,Calorie Intake,Exercise,Exercise Category
-05-11-2023,3523,2248,Yes,Legs
+05-11-2023,3523,2248,Yes,Chest
 06-11-2023,3197,2065,Yes,Back
 07-11-2023,4288,2786,Yes,Arms
 08-11-2023,3582,2370,No,NA
@@ -9,7 +9,7 @@ Date,Water Intake,Calorie Intake,Exercise,Exercise Category
 12-11-2023,3788,2482,No,NA
 13-11-2023,2993,1983,Yes,Legs
 14-11-2023,3281,2115,No,NA
-15-11-2023,3174,2083,Yes,Back
+15-11-2023,3174,2083,Yes,Arms
 16-11-2023,4187,2674,Yes,Chest
 17-11-2023,3928,2561,No,NA
 18-11-2023,3191,2042,Yes,Back
@@ -22,7 +22,7 @@ Date,Water Intake,Calorie Intake,Exercise,Exercise Category
 25-11-2023,3554,2293,No,NA
 26-11-2023,3085,1986,Yes,Legs
 27-11-2023,3646,2334,No,NA
-28-11-2023,3369,2206,Yes,Back
+28-11-2023,3369,2206,Yes,Arms
 29-11-2023,3875,2559,Yes,Chest
 30-11-2023,4255,2734,No,NA
 01-12-2023,2955,1876,No,NA
@@ -35,7 +35,7 @@ Date,Water Intake,Calorie Intake,Exercise,Exercise Category
 08-12-2023,3674,2392,No,NA
 09-12-2023,3697,2448,Yes,Chest
 10-12-2023,3341,2197,Yes,Arms
-11-12-2023,3975,2540,Yes,Back
+11-12-2023,3975,2540,Yes,Chest
 12-12-2023,3979,2583,Yes,Legs
 13-12-2023,4197,2759,No,NA
 14-12-2023,3440,2256,Yes,Chest
@@ -48,7 +48,7 @@ Date,Water Intake,Calorie Intake,Exercise,Exercise Category
 21-12-2023,3072,2046,Yes,Arms
 22-12-2023,3206,2035,Yes,Back
 23-12-2023,3626,2340,No,NA
-24-12-2023,3555,2341,Yes,Legs
+24-12-2023,3555,2341,Yes,Chest
 25-12-2023,3731,2376,Yes,Back
 26-12-2023,3140,2065,Yes,Chest
 27-12-2023,3817,2433,Yes,Back
@@ -59,4 +59,4 @@ Date,Water Intake,Calorie Intake,Exercise,Exercise Category
 01-01-2024,3027,1970,Yes,Chest
 02-01-2024,4216,2704,Yes,Arms
 03-01-2024,3172,2082,No,NA
-04-01-2024,4244,2800,Yes,Legs
+04-01-2024,4244,2800,Yes,Chest
