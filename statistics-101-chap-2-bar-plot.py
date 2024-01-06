@@ -23,7 +23,6 @@ for bar in bars:
     yval = bar.get_height()
     plt.text(bar.get_x() + bar.get_width()/2, yval, int(yval), va='bottom', ha='center', fontsize=10)
 
-# Set the grid for y-axis
 plt.grid(axis='y', alpha=0.5, linestyle='--')
 
 sns.despine()
